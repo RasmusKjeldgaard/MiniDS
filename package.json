@@ -1,0 +1,11 @@
+{
+  "name": "minids",
+  "version": "0.0.1",
+  "description": "This is MiniDS, the tiniest design system ever. It is a sandbox for testing deployment, release management, documentation and tooling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raskjeldgaard@gmail.com",
+  "license": "ISC"
+}
